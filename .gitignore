@@ -30,5 +30,5 @@ bh_unicode_properties.cache
 GitHub.sublime-settings
 
 # ignor .rtf file
-.rtf
-.tmp
+*.rtf
+*.tmp
